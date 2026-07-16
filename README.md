@@ -39,7 +39,8 @@ https://codingarista.github.io/usb-auto-check/reports/sample_report.html
 
 ## Screenshot
 
-(放 HTML Report 截圖)
+<img width="1297" height="725" alt="image" src="https://github.com/user-attachments/assets/fc2ca990-fc43-435d-8d04-60fca6f70a5a" />
+
 
 ---
 
